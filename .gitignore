@@ -1,0 +1,41 @@
+# -----------------------------
+# Python cache files
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -----------------------------
+# Virtual environments
+# -----------------------------
+.venv/
+venv/
+env/
+
+# -----------------------------
+# Build / dist (Python packaging)
+# -----------------------------
+build/
+dist/
+*.egg-info/
+
+# -----------------------------
+# Environment variables
+# -----------------------------
+.env
+
+# -----------------------------
+# Vector database storage
+# -----------------------------
+data/vector_store/
+
+# -----------------------------
+# Jupyter Notebook checkpoints
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# VS Code settings (optional)
+# -----------------------------
+.vscode/
